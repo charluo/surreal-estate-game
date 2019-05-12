@@ -1,3 +1,3 @@
-Developed at Global Game Jam 2019
+3D Unity Game developed at Global Game Jam 2019
 
-Play it at https://charluo.github.io/surreal-estate-game/
+Check it out at https://charluo.github.io/surreal-estate-game/
